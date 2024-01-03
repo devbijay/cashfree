@@ -18,7 +18,7 @@ setup(
     description=DESCRIPTION,
     author='Bijay Nayak',
     author_email='bijay6779@gmail.com',
-    url='https://github.com/devbijay/phonepe-pg',
+    url='https://github.com/devbijay/cashfree',
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
