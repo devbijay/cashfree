@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/badge/cashfree)](https://pepy.tech/project/cashfree)
 # CashFree API Python Package
 
 This Python package provides a simple interface to the CashFree APIs. It can be used to create orders, payment links, check the status of transactions, and refund orders etc
